@@ -1,0 +1,28 @@
+﻿<Window x:Class="CrawlData.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CrawlData"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>  
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150"> </ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0" Grid.Row="0">
+            <Button> Load Data</Button>
+        </Grid>
+        <Grid Grid.Column="1" Grid.Row="0">
+            <Button Click="Button_Click">Add 1 item</Button>
+        </Grid>
+        <TreeView x:Name="treeMain" Grid.Column="0" Grid.Row="1">
+        </TreeView>
+        <WebBrowser x:Name="wbMain" Grid.Column="1" Grid.Row="1"></WebBrowser>
+    </Grid>
+</Window>

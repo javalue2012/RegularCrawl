@@ -1,0 +1,15 @@
+C:\CRAWLS\CrawlData\CrawlData\bin\Debug\CrawlData.exe.config
+C:\CRAWLS\CrawlData\CrawlData\bin\Debug\CrawlData.exe
+C:\CRAWLS\CrawlData\CrawlData\bin\Debug\CrawlData.pdb
+C:\CRAWLS\CrawlData\CrawlData\obj\Debug\CrawlData.csprojAssemblyReference.cache
+C:\CRAWLS\CrawlData\CrawlData\obj\Debug\MainWindow.g.cs
+C:\CRAWLS\CrawlData\CrawlData\obj\Debug\App.g.cs
+C:\CRAWLS\CrawlData\CrawlData\obj\Debug\CrawlData_MarkupCompile.cache
+C:\CRAWLS\CrawlData\CrawlData\obj\Debug\CrawlData_MarkupCompile.lref
+C:\CRAWLS\CrawlData\CrawlData\obj\Debug\MainWindow.baml
+C:\CRAWLS\CrawlData\CrawlData\obj\Debug\CrawlData.g.resources
+C:\CRAWLS\CrawlData\CrawlData\obj\Debug\CrawlData.Properties.Resources.resources
+C:\CRAWLS\CrawlData\CrawlData\obj\Debug\CrawlData.csproj.GenerateResource.cache
+C:\CRAWLS\CrawlData\CrawlData\obj\Debug\CrawlData.csproj.CoreCompileInputs.cache
+C:\CRAWLS\CrawlData\CrawlData\obj\Debug\CrawlData.exe
+C:\CRAWLS\CrawlData\CrawlData\obj\Debug\CrawlData.pdb
